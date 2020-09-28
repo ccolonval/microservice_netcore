@@ -1,0 +1,8 @@
+C:\Users\main\source\repos\myDemo_sample\myData\bin\Debug\netcoreapp3.1\myData.deps.json
+C:\Users\main\source\repos\myDemo_sample\myData\bin\Debug\netcoreapp3.1\myData.dll
+C:\Users\main\source\repos\myDemo_sample\myData\bin\Debug\netcoreapp3.1\myData.pdb
+C:\Users\main\source\repos\myDemo_sample\myData\obj\Debug\netcoreapp3.1\myData.AssemblyInfoInputs.cache
+C:\Users\main\source\repos\myDemo_sample\myData\obj\Debug\netcoreapp3.1\myData.AssemblyInfo.cs
+C:\Users\main\source\repos\myDemo_sample\myData\obj\Debug\netcoreapp3.1\myData.csproj.CoreCompileInputs.cache
+C:\Users\main\source\repos\myDemo_sample\myData\obj\Debug\netcoreapp3.1\myData.dll
+C:\Users\main\source\repos\myDemo_sample\myData\obj\Debug\netcoreapp3.1\myData.pdb
